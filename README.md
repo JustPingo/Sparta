@@ -3,9 +3,10 @@
 
 # Purpose
 
-Fighters learning to fight with deep learning evolutionary algorithm (neural network).
+Fighters learning to fight with deep learning evolutionary algorithm (neural network).<br>
+Used in a school project to study genetic mutations and their consequences.
 
 # Dependencies
 
-löve2d
-a brain
+a computer<br>
+time
